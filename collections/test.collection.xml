@@ -1,25 +1,30 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml">
   <col:metadata>
-    <md:title>test collection 3</md:title>
+    <md:title>Openstax books</md:title>
     <md:slug>test</md:slug>
   </col:metadata>
   <content xmlns="http://cnx.rice.edu/collxml">
     <subcollection>
-      <md:title>subcollection</md:title>
+      <md:title>Algebra and Trigonometry</md:title>
       <content>
-        <module document="m00003">
-          <md:title>abc</md:title>
-        </module>
         <module document="m00001">
-          <md:title>Introduction</md:title>
+          <md:title>Algebra and Trigonometry provides a comprehensive exploration of algebraic principles and meets scope and sequence requirements for a typical introductory algebra and trigonometry course</md:title>
         </module>
       </content>
     </subcollection>
     <subcollection>
-      <md:title>second</md:title>
+      <md:title>American Government 2e</md:title>
       <content>
-        <module document="m00004">
-          <md:title>physics</md:title>
+        <module document="m00001 copy">
+          <md:title>American Government 2e is designed to meet the scope and sequence requirements of the single-semester American Government course</md:title>
+        </module>
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>The AP Physics Collection</md:title>
+      <content>
+        <module document="m00002">
+          <md:title>Unnamed Module 1</md:title>
         </module>
       </content>
     </subcollection>
