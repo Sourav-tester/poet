@@ -7,25 +7,20 @@
     <subcollection>
       <md:title>Algebra and Trigonometry</md:title>
       <content>
-        <module document="m00001">
-          <md:title>Algebra and Trigonometry provides a comprehensive exploration of algebraic principles and meets scope and sequence requirements for a typical introductory algebra and trigonometry course</md:title>
-        </module>
+        <module document="m00001"/>
       </content>
     </subcollection>
     <subcollection>
       <md:title>American Government 2e</md:title>
       <content>
-        <module document="m00001 copy">
-          <md:title>American Government 2e is designed to meet the scope and sequence requirements of the single-semester American Government course</md:title>
-        </module>
+        <module document="m00003"/>
+        <module document="m00001 copy"/>
       </content>
     </subcollection>
     <subcollection>
       <md:title>The AP Physics Collection</md:title>
       <content>
-        <module document="m00002">
-          <md:title>Unnamed Module 1</md:title>
-        </module>
+        <module document="m00002"/>
       </content>
     </subcollection>
   </content>
