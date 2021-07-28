@@ -1,0 +1,11 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Test Module</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Test Module</md:title>
+    <md:content-id>m00004</md:content-id>
+    <md:uuid>40d77783-9ecb-46d6-ba88-fdec602a6b19</md:uuid>
+  </metadata>
+  <content>
+    <para id="test">Test Introduction</para>
+  </content>
+</document>

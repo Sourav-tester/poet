@@ -5,6 +5,12 @@
   </col:metadata>
   <content xmlns="http://cnx.rice.edu/collxml">
     <subcollection>
+      <md:title>The AP Physics Collection</md:title>
+      <content>
+        <module document="m00002"/>
+      </content>
+    </subcollection>
+    <subcollection>
       <md:title>Algebra and Trigonometry</md:title>
       <content>
         <module document="m00001"/>
@@ -18,10 +24,8 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>The AP Physics Collection</md:title>
-      <content>
-        <module document="m00002"/>
-      </content>
+      <md:title>Test subcollection</md:title>
+      <content/>
     </subcollection>
   </content>
 </col:collection>
